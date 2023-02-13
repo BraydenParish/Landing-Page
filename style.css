@@ -111,3 +111,10 @@ footer {
     justify-content: center;
     align-items: center;
 }
+
+#but0 {
+    background-color: #3882F6;
+    border-radius: 25px;
+    border: 0;
+    padding: 10px;
+}
